@@ -1,1 +1,1 @@
-Testing Git pull
+Testing Git pull " betyder update"
